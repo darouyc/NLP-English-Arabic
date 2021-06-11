@@ -1,4 +1,4 @@
-# NLP-Arabe-Anglais
+# NLP-English-Arabic
  
 Ce projet est réalisé par ZEROUALI Hajar et DAROUY Chaimae, encadré par Pr.ELAACHAK Lotfi
 
